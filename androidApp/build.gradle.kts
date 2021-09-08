@@ -16,6 +16,7 @@ dependencies {
     implementation( "androidx.activity:activity-ktx:1.2.3")
 }
 
+
 android {
     compileSdkVersion(31)
     defaultConfig {
